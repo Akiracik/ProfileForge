@@ -2,7 +2,7 @@
   <h1>ProfileForge</h1>
   <p><strong>A modern, premium GitHub Profile README generator.</strong></p>
   
-  <a href="http://profileforgee.vercel.app/"><strong>🔗 Live Demo: profileforgee.vercel.app</strong></a>
+  <a href="http://profile-forgee.vercel.app/"><strong>🔗 Live Demo: profileforgee.vercel.app</strong></a>
 </div>
 
 <br />
