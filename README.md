@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://lucide.dev/icons/sparkles.svg" width="40" height="40" alt="Sparkles" />
   <h1>ProfileForge</h1>
   <p><strong>A modern, premium GitHub Profile README generator.</strong></p>
   
@@ -13,8 +12,6 @@
 <div align="center">
   <img src="./assets/preview.png" alt="ProfileForge UI" width="100%" />
 </div>
-
-> **Not:** Lütfen çektiğiniz ekran görüntüsünü projenin içindeki `assets` klasörüne `preview.png` adıyla kaydedin. (Klasör yoksa oluşturabilirsiniz).
 
 ## ✨ Özellikler
 
